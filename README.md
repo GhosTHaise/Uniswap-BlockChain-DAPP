@@ -6,9 +6,12 @@ yarn create next-app --example with-tailwindcss with-tailwindcss-app
 # or
 pnpm create next-app -- --example with-tailwindcss with-tailwindcss-app
 ```
+Utiliser la Blockchain Rinkeby pour ce DAPP.
+
 Vous pouvez voir le resultat sur ce lien : https://ghost-ether-sender.vercel.app/
 
 Initialiser le projet avec :
 ```shell
 yarn install
 ```
+
