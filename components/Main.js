@@ -9,6 +9,7 @@ import Modal from 'react-modal';
 import TransactionLoader from '../components/TransactionLoader'
 
 Modal.setAppElement('#__next');
+//Style pour tailwindcss
 const style = {
   wrapper : `w-screen flex items-center justify-center mt-14`,
   content : `bg-[#191B1F] w-[40rem] rounded-2xl p-4`,
